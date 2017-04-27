@@ -1,0 +1,13 @@
+{
+    "name": "breeze-php/breeze-core",
+    "description": "A collection of core tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suh Du",
+            "email": "suhdu@protonmail.com"
+        }
+    ],
+    "require": {}
+}
